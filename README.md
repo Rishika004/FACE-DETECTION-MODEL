@@ -1,2 +1,2 @@
 # FACE-DETECTION-MODEL
-DETECTING FACES IN IMAGES AND VIDEOS USING HAR CASACADES
+Detecting faces in images and videos using haar casacades
